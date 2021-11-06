@@ -12,7 +12,9 @@ currently being supported with security updates.
 | 4.0.x   | :white_check_mark: |
 | < 4.0   | :x:                |
 
-## Reporting a Vulnerability
+## Reporting a Vulnerability[]()<!-- Error while uploading Tap on a clip to paste it in the text - # box.Kingman' weather -->@sweetascherri **`````
+
+`````__**
 
 Use this section to tell people how to report a vulnerability.
 
